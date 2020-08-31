@@ -2,7 +2,7 @@ NAME ?= Cartel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 10.0-onclite
+CODE := 10.0-grus
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
